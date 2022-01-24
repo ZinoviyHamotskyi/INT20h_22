@@ -1,4 +1,4 @@
-# INT20h_22
+# INT20H_22 team_name
 
 ## Нашою командою представлено 3 рішення:
 1) **optuna_lgbm_rff.ipynb - (0.89...) Краще по скору та найбільш професійне:**  LGBMClassifier + Fourier features 
